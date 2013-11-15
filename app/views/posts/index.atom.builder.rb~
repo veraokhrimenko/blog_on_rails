@@ -1,0 +1,2 @@
+atom0_feed do |feed|
+	feed.title "my blog feed"
